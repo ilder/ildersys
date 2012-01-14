@@ -3,6 +3,6 @@
 int main()
 {
 	//test for git
-	printf("Hello world!!!");
-	return 0;
+	printf("Hello world!!!/n");
+	printf("Hello Git!!!");
 }
